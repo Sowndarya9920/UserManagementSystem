@@ -17,12 +17,17 @@
 - Spring web
 - Spring Boot Dev Tool
 
+
+
 ## Data Flow :
 
 ## Model : 
 
 - It consists of a User class which consists of Entity's used to model our data application.
 - For each of our data , constructors , getters and setters are created.
+
+![image](https://user-images.githubusercontent.com/112794922/233673613-aaf42372-700d-4c80-81db-a0f0e51998e9.png)
+
 
 ## Controller : 
 
