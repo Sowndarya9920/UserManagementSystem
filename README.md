@@ -105,10 +105,28 @@
 
 ![image](https://user-images.githubusercontent.com/112794922/233674582-6cc54712-7c75-4b3e-a218-616fbb1f6b53.png)
 
-### View :
-#### Get All Users
+## View :
+### Get All Users
 
 ![image](https://user-images.githubusercontent.com/112794922/233680871-55e77380-8587-4a63-ac16-135abc8fc268.png)
+
+### Get user by userId
+
+![image](https://user-images.githubusercontent.com/112794922/233681180-aec3d8b7-43a5-401f-9bbc-94ba644a492b.png)
+
+### Add Users
+
+![image](https://user-images.githubusercontent.com/112794922/233681275-ca48a1fd-c981-4f0f-bd5e-1daa87a2afbe.png)
+
+### Update Users
+
+![image](https://user-images.githubusercontent.com/112794922/233681498-69c8a163-4cf5-4606-8ce6-cdba9b0da2c3.png)
+
+### Delete Users
+
+![image](https://user-images.githubusercontent.com/112794922/233681582-7e15523a-8c42-4dab-9ae0-7fe700057591.png)
+
+
 
 
  
