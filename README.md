@@ -100,7 +100,7 @@
 
 ## Repository :
 
-- It consists of UserDao which is used to manage or datas.
+- It consists of UserDao which is used to manage the datas.
 - @Repository annotation is used to make the class repository layer.
 
 ![image](https://user-images.githubusercontent.com/112794922/233674582-6cc54712-7c75-4b3e-a218-616fbb1f6b53.png)
