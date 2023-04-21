@@ -105,6 +105,12 @@
 
 ![image](https://user-images.githubusercontent.com/112794922/233674582-6cc54712-7c75-4b3e-a218-616fbb1f6b53.png)
 
+### View :
+#### Get All Users
+
+![image](https://user-images.githubusercontent.com/112794922/233680871-55e77380-8587-4a63-ac16-135abc8fc268.png)
+
+
  
 
 
